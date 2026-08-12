@@ -1,7 +1,7 @@
-Schneider insight gateway modbus tcp victron client\
-put insight.py in /opt/victronenergy/dbus-modbus-client\
+Schneider insight gateway modbus tcp victron client
+put insight.py in /opt/victronenergy/dbus-modbus-client
 
-nano /opt/victronenergy/dbus-modbus-client/dbus-modbus-client.py\
+nano /opt/victronenergy/dbus-modbus-client/dbus-modbus-client.py
 
 Scroll down to this section:\
 
@@ -15,4 +15,4 @@ import ev_charger\
 import smappee\
 import victron_em\
 import insight\
-^^^ Add this include, and save\
+^^^ Add this include, and save
