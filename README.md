@@ -1,4 +1,4 @@
-Schneider insight gateway modbus tcp victron client
+Schneider insight gateway modbus tcp victron client\
 put insight.py in /opt/victronenergy/dbus-modbus-client
 
 nano /opt/victronenergy/dbus-modbus-client/dbus-modbus-client.py
